@@ -9,11 +9,5 @@
 
 ## Branch
 
-- main: Original
-- Sign-In: Added 'Sign-In' Page
- 
-
-## Branch
-
-- main: Original
+- main: Original(Merged Aug/03/23)
 - Sign-In: Added 'Sign-In' Page
