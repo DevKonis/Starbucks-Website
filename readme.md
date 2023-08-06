@@ -5,7 +5,7 @@
 ## Link
 
 - Original: https://github.com/ParkYoungWoong/starbucks-vanilla-app
-- https://devkonis-overwatch.netlify.app/
+- [Starbucks Website](https://devkonis-overwatch.netlify.app/)
 
 ## Branch
 
