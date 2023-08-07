@@ -1,6 +1,6 @@
 # Starbucks-Website
 
-- Skills: HTML/CSS/Javascript
+- Skills: HTML/CSS/JS
 
 ## Link
 
