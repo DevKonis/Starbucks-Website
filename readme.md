@@ -4,7 +4,7 @@
 
 ## Link
 
-- [Starbucks Website](https://starbucks-website-iota.vercel.app/)
+- [Starbucks Website](https://starbucks-website-iota.vercel.app/){:target="_blank"}
 - Origin: https://github.com/ParkYoungWoong/starbucks-vanilla-app
 
 ## Branch
